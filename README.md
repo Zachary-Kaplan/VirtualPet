@@ -5,7 +5,6 @@ size(400,250);
 
 void draw()
 {
-
 translate(-60,0);
 
 //branch
