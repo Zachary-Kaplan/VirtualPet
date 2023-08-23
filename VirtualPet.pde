@@ -72,7 +72,7 @@ line(182,160,130,190);
 noStroke();
 //nasal feathers
 fill(90,90,90);
-rect(330,60,20,5);
+rect(335,60,15,5);
 
 //lighting and details
 triangle(305,125,280,160,310,130);
