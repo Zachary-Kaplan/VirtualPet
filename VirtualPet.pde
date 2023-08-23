@@ -1,5 +1,6 @@
 void setup()
 {
+background(5,169,252);
 size(400,250);
 }
 
